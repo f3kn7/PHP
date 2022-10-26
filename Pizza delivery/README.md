@@ -7,11 +7,10 @@
        cada um com seus respectivos acessos, funções e telas (CRUD de
        usuários c/ banco de dados);
        
- - [x] Se o usuário for um atendente cadastrado no sistema, o sistema
-       deve informar no topo da página uma mensagem de boas vindas com o
-       seu nome;
+ - [x] Se o usuário for um atendente cadastrado, o sistema deve informar 
+       no topo da página uma mensagem de boas vindas com o seu nome;
        
- - [x] Se o usuário for um administrador o sistema deve permitir
+ - [x] Se o usuário for um administrador, o sistema deve permitir
        informar o sabor e o valor de custo da pizza (CRUD de sabores c/
        banco de dados):
        
