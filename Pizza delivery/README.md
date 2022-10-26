@@ -18,13 +18,10 @@
      - Portuguesa = 18,65;
 
    -  O administrador ao informar os sabores e valores, o sistema deve calcular:
-   
      - Se o pedido da pizza for igual à calabresa o sistema deve calcular o
    valor da pizza mais 15% ISSQN + R$ 0,55 de entrega;
-   
      - Se o pedido da pizza for igual a Pepperoni o sistema deve calcular o
    valor da pizza mais 5% ISSQN + R$1,55 de entrega;
-   
      - Se o pedido da pizza for igual a Pepperoni o sistema deve calcular o
    valor da pizza mais 18% ISSQN + R2,50 entrega;
    
