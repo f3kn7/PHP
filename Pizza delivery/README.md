@@ -36,5 +36,6 @@
        sobre o valor das vendas;
        
  - [x] Os pedidos deverão ser gravados em arquivo .txt.  
---- 
-***O sistema deve conter: Cookies, Sessions, Permanência de dados no banco, Funções e Requireds***  
+ 
+
+***O sistema deve conter: Cookies, Sessions, Permanência de dados no banco, Funções e Requireds***
