@@ -1,7 +1,5 @@
 # Sistema para Delivery de Pizzas
-
-  
-
+  ---
  - [x] Criar um login de acesso (e-mail e senha) para o sistema de controle
        de entrega de pizza;
        
